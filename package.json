@@ -16,6 +16,6 @@
     "@frctl/mustache": "^1.0.0",
     "@frctl/nunjucks": "^2.0.2",
     "@frctl/twig": "^1.2.0",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   }
 }
